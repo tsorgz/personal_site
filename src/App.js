@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      I'm gay
+      Site is under construction.....
     </div>
   );
 }
